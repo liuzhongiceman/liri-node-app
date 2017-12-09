@@ -1,0 +1,262 @@
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:34:08 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb
+DATA OUTPUT:
+Title: Guardians of the Galaxy Vol. 2
+Year: 2017
+IMDb Rating: 7.8
+Country: USA, New Zealand, Canada
+Language: English
+Plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:35:22 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb,starwar
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:38:15 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb,star
+DATA OUTPUT:
+Title: Star
+Year: 2001
+IMDb Rating: 7.8
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:40:06 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb,Pirates of the Caribbean
+DATA OUTPUT:
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+IMDb Rating: 8.0
+Country: USA
+Language: English
+Plot: Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:41:28 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb,Pirates of the Caribbean
+DATA OUTPUT:
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+IMDb Rating: 8.0
+Country: USA
+Language: English
+Plot: Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 20:47:38 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,omdb,Pirates of the Caribbean
+DATA OUTPUT:
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+IMDb Rating: 8.0
+Country: USA
+Language: English
+Plot: Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+Actors: Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== MUSIC LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:00:27 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,spotify-this-song,hello
+DATA OUTPUT:
+Song:hello
+Artists:Adele
+Preview Link:https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=b86246ce99b94e9dada18b6977451938
+Album: Hello
+Language: 
+ =============== MUSICS LOG ENTRY END ===============
+ 
+=============== MUSIC LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:01:39 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,spotify-this-song,shape of you
+DATA OUTPUT:
+Song:shape of you
+Artists:Ed Sheeran
+Preview Link:https://p.scdn.co/mp3-preview/84462d8e1e4d0f9e5ccd06f0da390f65843774a2?cid=b86246ce99b94e9dada18b6977451938
+Album: Shape of You
+ =============== MUSICS LOG ENTRY END ===============
+ 
+=============== MOVIES LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:14:41 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,movie-this,star wars
+DATA OUTPUT:
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDb Rating: 8.7
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== MOVIES LOG ENTRY END ===============
+
+1
+Tweet: If you want to defeat this lopsided tax bill, it is not a done deal. 
+
+Efforts in ME, AZ, CA, NY, NJ especially critical.
+
+More later.
+Created at: Fri Dec 08 18:46:27 +0000 2017 
+
+2
+Tweet: I really hope that @Google knows that they struck gold when they hired @sarahnovotny. I’ve known Sarah for years an… https://t.co/WHSvVXXtGL
+Created at: Fri Dec 08 18:46:13 +0000 2017 
+
+3
+Tweet: Your beer could soon be delivered in a Tesla.  Anheuser-Busch places order for 40 all-electric Tesla Semis https://t.co/hL8h7AwMAY
+Created at: Fri Dec 08 18:45:13 +0000 2017 
+
+4
+Tweet: NVIDIA GPU Cloud has now expanded support to TITAN V, bringing the NGC deep learning software containers to even more #AI researchers.
+Created at: Fri Dec 08 18:44:53 +0000 2017 
+
+5
+Tweet: To any person, leader, country or terrorist group that uses this week's decision as a pretext for violence: you are… https://t.co/Dxggs6JN0p
+Created at: Fri Dec 08 18:44:24 +0000 2017 
+
+6
+Tweet: This morning, @BernieSanders had a message for @POTUS about sexual misconduct and resignation.
+Created at: Fri Dec 08 18:44:10 +0000 2017 
+
+7
+Tweet: The Pope has revealed he wants to change the Lord's Prayer - as he thinks the current version implies that God pushes people toward sin
+Created at: Fri Dec 08 18:43:57 +0000 2017 
+
+8
+Tweet: A 19-year-old student died of anorexia because of a series of failures that involved every NHS organisation that ca… https://t.co/n22jz3ET19
+Created at: Fri Dec 08 18:43:29 +0000 2017 
+
+9
+Tweet: The US economy added 228,000 nonfarm payrolls in November, more than economists had forecast, a report on Friday fr… https://t.co/UqAC4uyu6N
+Created at: Fri Dec 08 18:43:06 +0000 2017 
+
+10
+Tweet: Cryptocurrency is the next step in the digitization of everything — 'It’s sort of inevitable'
+Created at: Fri Dec 08 18:42:46 +0000 2017 
+
+11
+Tweet: Here are your top 10 apps in Apple's App Store right now:
+
+10 Amazon
+9 Bitmoji
+8 Google Maps
+7 Snapchat
+6 Facebook… https://t.co/PnxnjIKopm
+Created at: Fri Dec 08 18:42:33 +0000 2017 
+
+12
+Tweet: Packed house tonight for our #NIPS2017 reception! We're looking forward to sharing the evening with you. Let's get this party started! 🎉
+Created at: Fri Dec 08 18:42:04 +0000 2017 
+
+13
+Tweet: U.S. homeless population increased for first time since 2010, driven by surge in number of people living on the str… https://t.co/MpogjODfyZ
+Created at: Fri Dec 08 18:41:39 +0000 2017 
+
+14
+Tweet: Why you might not have gained from buying Bitcoin in 2013
+Created at: Fri Dec 08 18:41:28 +0000 2017 
+
+15
+Tweet: Jensen Huang surprises #NIPS2017 attendees by announcing the new NVIDIA #TITANV.
+Created at: Fri Dec 08 18:41:12 +0000 2017 
+
+16
+Tweet: I am a tweet
+Created at: Thu Dec 07 19:56:48 +0000 2017 
+
+17
+Tweet: Predicting the Earth’s most severe weather. Finally finding a cure for cancer. Developing more meaningful interacti… https://t.co/uq8kFgQifs
+Created at: Thu Dec 07 19:50:17 +0000 2017 
+
+18
+Tweet: Google is pulling YouTube off the Fire TV and Echo Show as feud with Amazon
+Created at: Thu Dec 07 19:49:49 +0000 2017 
+
+19
+Tweet: RT @DavidHodge: Close up video of Tesla Roadster launching from zero https://t.co/6FziM9M755
+Created at: Fri Nov 17 07:11:15 +0000 2017 
+
+20
+Tweet: @DavidHodge crazy
+Created at: Fri Nov 17 06:18:45 +0000 2017 
+=============== MOVIES LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:30:58 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,movie-this,wonder woman
+DATA OUTPUT:
+Title: Wonder Woman
+Year: 2017
+IMDb Rating: 7.6
+Country: Hong Kong, China, USA
+Language: English, German, Dutch
+Plot: When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.
+Actors: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== MOVIES LOG ENTRY END ===============
+ 
+=============== MUSIC LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:32:14 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,spotify-this-song,despacito
+DATA OUTPUT:
+Song:despacito
+Artists:Luis Fonsi
+Preview Link:null
+Album: Despacito Feat. Justin Bieber (Remix)
+ =============== MUSICS LOG ENTRY END ===============
+ 
+=============== MUSIC LOG ENTRY BEGIN ===============
+Fri Dec 08 2017 22:32:59 GMT-0800 (PST)
+ 
+TERMINAL COMMANDS: /usr/local/Cellar/node/8.5.0/bin/node,/Users/iceman/Desktop/bootcamp/homework/liri-node-app/liri.js,do-what-it-says
+DATA OUTPUT:
+Song:"I Want it That Way"
+Artists:Backstreet Boys
+Preview Link:https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b86246ce99b94e9dada18b6977451938
+Album: The Hits--Chapter One
+ =============== MUSICS LOG ENTRY END ===============
+ 
